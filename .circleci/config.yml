@@ -17,9 +17,11 @@ jobs:
   build:
     docker:
     - image: klakegg/hugo:0.87.0
+#    environment:
+#      HUGO_BUILD_DIR: ~/hugo/public
     
     steps:
     - checkout
     - run:
         name: build Hugo site
-        command: -v $(pwd):/src
+        command: 
