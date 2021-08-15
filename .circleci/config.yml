@@ -22,6 +22,6 @@ jobs:
     
     steps:
     - checkout
-    - run:
-        name: build Hugo site
-        command: 
+#    - run:
+ #       name: build Hugo site
+  #      command: 
