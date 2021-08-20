@@ -43,23 +43,5 @@ JavaScript, React, React-Native, Angular, Webcomponents, C, Python, Django, PHP,
 In my latests positions I was a **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science. Have a look at my [CV and portfolio](/portfolio)
 
 
-
-<!-- ## Kotlin
-If you run a Java project, consider switching to Kotlin. It is an objective improvement. We were (one of?) the first teams that started to using Kotlin at ING. We [pushed](ref blog julien) long for it, but it made many developers very happy. Kotlin seemlesly integrates with Java. It lets the developer write less code, more concise, and with less bugs. Developers like proper tools, that makes them happy. Java is dated and sometimes feels like a stretch to work with. Kotlin addressed many of Java's pain points and replaced them with very good replacements. -->
-
-
-
-
-
-<!-- Software and security engineer with 10+ work experience and 25 years technology experience
-
-* Wrote my first script at the age of 8.
-* Joined a hacker group at age 15-16.
-* Graduated Msc. finance, cum laude
-* Began career as a white hat hacker/security specialist
-* Continued career as a software developer
-* Now senior software engineer/tech lead for different projects -->
-
-
 [clean_code_link]: https://www.bol.com/nl/nl/f/clean-code/9200000033313462/
 [clean_architecture_link]: https://www.bol.com/nl/nl/p/clean-architecture/9200000051454865/?bltgh=lnVHBc27MhgkYDgoM61PDQ.2_14.15.ProductTitle
