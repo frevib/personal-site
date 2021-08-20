@@ -15,7 +15,7 @@ menu: "main"
 
 # Contact me at
 
-Email: info at eventloopsoftware.nl
+Email: info [at] eventloopsoftware [dot] com
 
 Linkedin: https://www.linkedin.com/in/hielkedv/
 

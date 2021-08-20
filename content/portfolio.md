@@ -13,7 +13,7 @@ menu: "main"
 
 
 
-# Some other portfolio
+# Other portfolio
 
 [A blog about non-blocking IO](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
 
