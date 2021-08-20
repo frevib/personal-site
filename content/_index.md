@@ -13,13 +13,13 @@ menu:
 
 Hi, my name is Hielke and I am a **software engineer** with 10+ work experience and 20+ years technology experience. 
 
-Next to software engineer I am a **security specialist**. I've worked 5 years as a pentester for webapps and infra and continued to do security for the teams where I was software developer or tech lead.
+Next to software engineer I am a **security specialist**. I've worked 5 years as a pentester for webapps and infra, and continued to do security for the teams where I was software developer or tech lead.
 
 As language of choice I favour strongly-typed languages that have good functional programming support. **Kotlin** is one of those languages.
 
 My favorite jobs are designing and building systems that include **streams, async programming and concurrency**. I value high quality code and think that this is a [faster][clean_code_link] and [more efficient][clean_architecture_link] way to build products.
 
-Have a look at my [CV](/portfolio)
+Have a look at my [CV and portfolio](/portfolio).
 
 &nbsp;&nbsp;&nbsp;
 
@@ -40,7 +40,7 @@ JavaScript, React, React-Native, Angular, Webcomponents, C, Python, Django, PHP,
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-In my latests positions I was a **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science. Have a look at my [CV](/portfolio)
+In my latests positions I was a **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science. Have a look at my [CV and portfolio](/portfolio)
 
 
 
