@@ -25,13 +25,10 @@ jobs:
     - checkout
     - run: |
          echo "$DOCKER_PASS" | docker login --username $DOCKER_USER --password-stdin
-        #  docker run -d --name db company/proprietary-db:1.2.3
+
 
      # build the application image
     - run: docker build -t frevib/personal-site:latest .
 
      # deploy the image
     - run: docker push frevib/personal-site:latest
-#    - run:
- #       name: build Hugo site
-  #      command: 
