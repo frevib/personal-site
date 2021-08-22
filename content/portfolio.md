@@ -6,11 +6,11 @@ menu: "main"
 # omit_header_text: true
 ---
 
+
 # CV
 
 
 <https://www.linkedin.com/in/hielkedv/>
-
 
 
 # Other portfolio
@@ -29,3 +29,6 @@ menu: "main"
 
 [Github](https://github.com/frevib)
 
+# Latest experience
+
+In my latests positions I was **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science.

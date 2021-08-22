@@ -40,8 +40,6 @@ Scala, JavaScript, React, React-Native, Angular, Webcomponents, C, Python, Djang
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-In my latests positions I was a **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science. Have a look at my [CV and portfolio](/portfolio)
-
 
 [clean_code_link]: https://www.bol.com/nl/nl/f/clean-code/9200000033313462/
 [clean_architecture_link]: https://www.bol.com/nl/nl/p/clean-architecture/9200000051454865/?bltgh=lnVHBc27MhgkYDgoM61PDQ.2_14.15.ProductTitle
