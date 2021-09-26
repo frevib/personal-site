@@ -28,16 +28,10 @@ Have a look at my [CV and portfolio](/portfolio).
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Besides Kotlin and Java I've build applications or worked with:
+Besides Kotlin I've build applications or worked with:
 
-Scala, JavaScript, React, React-Native, Angular, Webcomponents, C, Python, Django, PHP, Clojure, Common Lisp, Elm, Haskell, Scala, k8s, Azure, GCP, AWS, OVH cloud, Digital Ocean, Groovy, HTML, CSS, and likely a lot more (e.g. Perl). I can also read some x86/x64 assembly and did a few reverse engineering jobs.
+Java, Scala, Spring, Vert.x, Flink & other Java and Scala frameworks, JavaScript, React, React-Native, Angular, Webcomponents & other JS frameworkds, C, Python, Django, PHP, Clojure, Common Lisp, Elm, Haskell, Scala, k8s, Azure, GCP, AWS Groovy, HTML, CSS, and likely a lot more (e.g. Perl). I can also read some x86/x64 assembly and did a few reverse engineering jobs.
 
-
-&nbsp;&nbsp;&nbsp;
-
----
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
