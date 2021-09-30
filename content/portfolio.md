@@ -31,4 +31,4 @@ menu: "main"
 
 # Latest experience
 
-In my latests positions I was **tech lead** for a startup in a big corporate. There we built a machine learning product that included software engineering, data engineering and data science.
+In my current position I am **tech lead** at ING - Advanced analytics/ Artificial intelligence. There we build a product that volves big data, machine learning and graph representation of source code.
